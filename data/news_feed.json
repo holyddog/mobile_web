@@ -1,0 +1,22 @@
+﻿[
+	{
+		"name": "Kitchen Sink",
+		"icon": "http://localhost/research/mobile_web/images/blog_1.jpg",
+		"desc": "Compact overview of many Sencha Touch components with both a phone and tablet view."
+	},
+	{
+		"name": "Watch List",
+		"icon": "http://localhost/research/mobile_web/images/blog_2.jpg",
+		"desc": "An Facebook example with Phone and Tablet views backed by Node.js and MongoDB."
+	},
+	{
+		"name": "Jog With",
+		"icon": "http://localhost/research/mobile_web/images/blog_3.jpg",
+		"desc": "A Facebook example which allows you to share when you jog."
+	},
+	{
+		"name": "Touch Tweets",
+		"icon": "http://localhost/research/mobile_web/images/blog_4.jpg",
+		"desc": "A Sencha Touch client which allows you to search Twitter."
+	}
+]
